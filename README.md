@@ -4,4 +4,4 @@ A Simple Ajax Contact Form developed in PHP with HTML5 Form validation. Has a fa
 
 Open the archive process.php and set the sender's email in the following variable:
 
-$emailTo = '<YOUR_EMAIL_HERE>';
+$emailTo = '<code><YOUR_EMAIL_HERE>'</code>;
